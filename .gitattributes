@@ -1,0 +1,2 @@
+*.sql linguist-detectable=true
+*.pbix linguist-language=DAX
