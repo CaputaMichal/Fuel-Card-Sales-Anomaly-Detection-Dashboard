@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![PowerBI](https://img.shields.io/badge/Tool-PowerBI-orange)
+
 # Fuel Card Sales & Anomaly Detection Dashboard
 
 ## 📊 Project Overview
